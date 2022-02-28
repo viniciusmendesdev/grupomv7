@@ -203,7 +203,7 @@
 
 <footer>
 	<p>&copy<?=date('Y')?> <a href="#">Grupo MV7</a> | Todos os direitos reservados</p>
-	<p>Site criado por <a href="https://macrodigital.com.br">Macro Digital</a></p>
+	<p>Site criado por <a href="https://macrodigital.com.br">Macro Digital</a> (21) 98106-0115</p>
 </footer>
 
 
